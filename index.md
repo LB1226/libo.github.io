@@ -14,3 +14,7 @@
    出生年月：1999.12.26
    学校：浙大宁波理工学院
    Github:  LB1226
+
+
+
+## < a href="https://github.com/LB1226/LB2/blob/main/%E5%AE%9E%E6%8C%87%E6%95%B0%E4%BF%A1%E5%8F%B7%E5%9B%BE%E5%83%8F.py ">实指数信号图像</ a>
