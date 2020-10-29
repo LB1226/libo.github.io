@@ -1,5 +1,7 @@
 # 李博的个人主页
 
+主页地址为：
+https://lb1226.github.io/libo.github.io/
 
 -电子信息工程194班
 
